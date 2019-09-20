@@ -1,5 +1,11 @@
+# Files
 *.pyc
 *.swp
+
+# Directories
 .ipynb_checkpoints/
 .local/
 .bash_history
+.ssh/
+.gitconfig
+.ipython/
