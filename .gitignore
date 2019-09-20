@@ -9,3 +9,5 @@
 .ssh/
 .gitconfig
 .ipython/
+.cache/
+
